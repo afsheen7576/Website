@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto Slab', sans-serif;
+    font-size: 18px;
+    box-sizing: border-box;
+    color: white;
+}
+
+html {
+    font-family: sans-serif;
+    text-align: center;
+    background-color: rgb(56, 28, 82);
+    text-emphasis-color: white;
+    font: size 18px;
+    background: position 10px;
+    line-height: 50pt;
+}
+
+nav {
+    text-align: left;
+    line-height: 20pt;
+}
+
+space {
+    text-align: left;
+}
